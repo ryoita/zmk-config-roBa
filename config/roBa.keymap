@@ -84,7 +84,7 @@
 &mt LEFT_SHIFT NUMBER_0  &kp LEFT_ALT  &kp LEFT_WIN  &kp LG(C)         &kp LG(V)          &kp LANGUAGE_1      &kp BACKSPACE  &kp ENTER                                     &kp RIGHT_SHIFT
             >;
 
-            sensor-bindings = <&inc_dec_kp LG(K_SCROLL_UP) LG(K_SCROLL_DOWN)>;
+            sensor-bindings = <&inc_dec_kp LG(C_AC_ZOOM_IN) LG(C_AC_ZOOM_OUT)>;
         };
 
         NUM {
