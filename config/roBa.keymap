@@ -73,7 +73,7 @@
 &kp LCTRL         &kp LEFT_ALT  &kp LEFT_WIN  &mt LEFT_SHIFT LANG2  &lt 2 SPACE  &kp LANGUAGE_1      &kp BACKSPACE  &lt 1 ENTER                             &kp RIGHT_SHIFT
             >;
 
-            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
+            sensor-bindings = <&inc_dec_kp NUMBER_1 NUMBER_2>;
         };
 
         FUNCTION {
